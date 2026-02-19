@@ -65,11 +65,9 @@ The primary objective is to evaluate predictive performance under two real-world
 
 ## Repository Structure
 
-notebooks/
-student_performance_ml_portfolio.ipynb
+notebooks/student_performance_ml_portfolio.ipynb
 
-reports/
-student_performance_executive_summary.pdf
+reports/student_performance_executive_summary.pdf
 
 ## Business Implications
 
